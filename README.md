@@ -1,5 +1,5 @@
 Froggy Executor
-Note: Disabling antivirus is not recommended; ensure your security settings allow for the proper functioning of the executor.
+Note: Disabling antivirus is recommended; ensure your security settings are off.
 
 Overview
 Welcome to Froggy Executor, an actively developed tool designed for executing Level 4 scripts on Microsoft Store or web versions. This executor is continually updated to provide an enhanced experience for users.
