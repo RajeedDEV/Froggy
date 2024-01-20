@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/iNCBTer0"))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/SAZXHUB/Control-update/main/README.md'),true))()
+https://pastebin.com/raw/HXk3JGhY 
+loadstring(game:HttpGet(('https://pastebin.com/raw/MMNTMA0a'),true))() 
